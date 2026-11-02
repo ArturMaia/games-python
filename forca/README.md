@@ -1,8 +1,7 @@
+# 🎯 JOGO DA FORCA
 <p align="center">
   <img src="https://github.com/ArturMaia/games-python/blob/main/forca/forca.jpg" alt="forca" style="width: 150px; border-radius: 10px;"> 
 </p>
-
-# 🎯 JOGO DA FORCA
 
 ### Teste seus conhecimentos e descubra a palavra secreta!
 
