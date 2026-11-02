@@ -1,8 +1,7 @@
+# 🧠 QUIZ DO CONHECIMENTO
 <p align="center">
   <img src="https://github.com/ArturMaia/games-python/blob/main/quizbr/quiz.jpeg" alt="BR" style="width: 150px; border-radius: 10px;"> 
 </p>
-
-# 🧠 QUIZ DO CONHECIMENTO
 
 ### Teste seus conhecimentos e desafie sua memória!
 
