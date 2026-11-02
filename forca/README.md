@@ -50,6 +50,9 @@ O jogo seleciona aleatoriamente uma das seguintes categorias:
 ```bash
 python main.py
 ```
+<p align="center">
+  <img src="https://github.com/ArturMaia/games-python/blob/main/forca/TelaForca.png" alt="forca" style="width: 250px; border-radius: 50px;"> 
+</p>
 
 ## 🏆 SEU DESAFIO COMEÇA AGORA!
 
