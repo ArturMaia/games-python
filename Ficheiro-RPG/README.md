@@ -78,8 +78,6 @@ Os efeitos entram na ficha automaticamente. Para mudar os limites, edite `DESV_M
 
 <div align="center">
 
-⚔️ 🛡️ 🐉 🔮 🎲
-
 <sub>Dungeons & Dragons é marca registrada da Wizards of the Coast. Projeto não oficial feito por fãs.</sub>
 
 </div>
