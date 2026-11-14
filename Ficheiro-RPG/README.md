@@ -39,7 +39,7 @@ python gerador_ficha.py
 
 1. **Criação**: preencha nome, raça, classe, antecedente e nível.
 2. **Descontos** *(opcional)*: sorteie desvantagens e escolha vantagens.
-3. Clique em **🎲 Gerar Personagem**.
+3. Clique em **Gerar Personagem**.
 4. **Ficha**: confira o resultado e imprima, salve ou copie.
 5. **Dados**: role livremente ou teste perícias e ataques com os valores da ficha.
 
@@ -58,9 +58,9 @@ python gerador_ficha.py
 
 Uma regra caseira opcional para dar mais personalidade ao herói:
 
-1. 🎲 O programa sorteia **2 ou 3 desvantagens**, que dão pontos.
-2. 🛒 Com esses pontos, você escolhe **até 3 vantagens**.
-3. 🚫 O gasto não pode passar dos pontos ganhos.
+1. O programa sorteia **2 ou 3 desvantagens**, que dão pontos.
+2. Com esses pontos, você escolhe **até 3 vantagens**.
+3. O gasto não pode passar dos pontos ganhos.
 
 > **Exemplo:** o sorteio traz *Fobia* (+1) e *Procurado pela lei* (+2). Com 3 pontos, você pode comprar *Treino defensivo* (+1 de CA).
 
