@@ -22,6 +22,7 @@ Aqui você encontra os projetos disponíveis no portal. Cada jogo possui uma pas
 - **QuizBR:** teste seus conhecimentos sobre diversos assuntos da cultura brasileira.
 - **Jogo da Cobra:** um clássico dos jogos, também uma homenagem a linguagem usada.
 - **Tetris:** teste suas habilidades lógicas com esse jogo clássico.
+- **Ficheiro RPG:** gere a ficha do seu personagem em D&D e aproveite o jogo.
   
 *Novos jogos serão adicionados ao catálogo conforme o desenvolvimento de novos projetos.*
 
